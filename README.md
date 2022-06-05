@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/C1h2i3d4i5/Solution-to-the-Huddle-landing-page-with-curved-sections-challenge)
+- Solution URL: (https://github.com/C1h2i3d4i5/Solution-to-the-Huddle-landing-page-with-curved-sections-challenge)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
