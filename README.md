@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/C1h2i3d4i5/Solution-to-the-Huddle-landing-page-with-curved-sections-challenge)
+- Solution URL: (https://github.com/MaxKolbe/Solution-to-the-Huddle-landing-page-with-curved-sections-challenge/blob/main/README.md))
 - Live Site URL: (https://maxkolbe.github.io/Solution-to-the-Huddle-landing-page-with-curved-sections-challenge/)
 
 ## My process
